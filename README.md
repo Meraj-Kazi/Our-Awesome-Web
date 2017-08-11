@@ -11,7 +11,7 @@ You gonna miss not only one or two things but so many things if you don't see th
 So, let's not miss anything and find many things :D <br>
 
 Whenever you find something awesome, just come and write and give a pull request here in this section! 
-### [I got something AWESOME!] (https://github.com/Meraj-Kazi/our-awesome-web/blob/master/found-something-awesome.md) 
+### [I got something A W E S O M E](https://github.com/Meraj-Kazi/our-awesome-web/blob/master/found-something-awesome.md) 
 
 There's only one mighty rule to add something here! <br>
 > It needs to be A W E S O M E 
