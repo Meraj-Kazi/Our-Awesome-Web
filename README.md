@@ -13,6 +13,9 @@ So, let's not miss anything and find many things :D <br>
 Whenever you find something awesome, just come and write and give a pull request here in this section! 
 ### [I found something A W E S O M E](https://github.com/Meraj-Kazi/our-awesome-web/blob/master/found-something-awesome.md) 
 
+You'll get furtehr istructions there! <br><br><br>
+
+
 There's only one mighty rule to add something here! <br>
 * It needs to be A W E S O M E 
 
