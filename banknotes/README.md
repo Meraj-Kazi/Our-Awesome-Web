@@ -1,4 +1,4 @@
-# [Bank Notes] (https://www.banknotes.com/b.htm#br)
+# [Bank Notes](https://www.banknotes.com/b.htm#br)
 
 This site is all about world currency! <br>
 You gonna be amazed! <br>
