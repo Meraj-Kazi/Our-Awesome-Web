@@ -1,7 +1,7 @@
 # Our Awesome Web
 This repo is created to make a list of all the awesome exceptional sites on the web! You can help us by finding one! 's 
 
-So, our duty is to find sites which are not that much familliar but has some exceptional services.
+So, our duty is to find sites which are not that much familliar but has some exceptional services. 
 
 Having a habit of surfing on the web is an awesome one! It teaches us a lot. We can learn many things via web only if we spend less time in our social networks and look around the web. 
 
