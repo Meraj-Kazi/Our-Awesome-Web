@@ -16,7 +16,7 @@ Whenever you find something awesome, just come and write and give a pull request
 You'll get furtehr istructions there! <br><br><br>
 
 
-There's only one mighty rule to add something here! <br>
+There's only one mighty rule to add something here! <br> 
 * It needs to be A W E S O M E 
 
 #HappySurfingWeb
